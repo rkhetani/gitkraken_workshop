@@ -49,8 +49,8 @@ square_it <- function(x){
 library(Tmisc)
 
 # Load the data and look at it
-data(quartet)
-str(quartet)
+# data(quartet)
+# str(quartet)
 
 # Compute simple statistics for each
 library(dplyr)
